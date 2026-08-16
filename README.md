@@ -71,4 +71,4 @@ By downloading, installing, or using TwitchAn, you acknowledge these risks and a
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+TwitchAn is proprietary software. Installation and use are governed by the [TwitchAn End User License Agreement](LICENSE). Third-party components remain subject to their respective licenses.
