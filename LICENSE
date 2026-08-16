@@ -1,21 +1,66 @@
-MIT License
+# TwitchAn End User License Agreement
 
-Copyright (c) 2026 shishiawase
+Copyright (c) 2026 shishiawase. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This End User License Agreement (the "Agreement") governs the installation and use of TwitchAn (the "Software"). By downloading, installing, copying, or using the Software, you agree to this Agreement. If you do not agree, do not install or use the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. License grant
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Subject to this Agreement, the copyright holder grants you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to install and use the Software for personal or internal business purposes.
+
+The Software is licensed, not sold. No ownership or intellectual property rights are transferred to you.
+
+## 2. Restrictions
+
+Except where applicable law expressly permits otherwise, you may not:
+
+- sell, rent, lease, sublicense, commercially redistribute, or otherwise transfer the Software or access to it;
+- publish, distribute, or make available modified, repackaged, or unofficial builds of the Software;
+- copy the Software except for installation and reasonable personal backup purposes;
+- reverse engineer, decompile, disassemble, or attempt to derive source code, credentials, signing material, private interfaces, or security mechanisms from the Software;
+- remove or alter copyright, trademark, attribution, license, security, or proprietary notices;
+- represent the Software as your own product or imply endorsement, sponsorship, or affiliation that does not exist;
+- bypass access controls, signatures, update verification, rate limits, or technical restrictions; or
+- use the Software to violate applicable law, third-party rights, platform rules, terms of service, licenses, or community guidelines.
+
+Links to official, unmodified releases may be shared. Permission to redistribute the installer or include it in another package must be obtained from the copyright holder in writing.
+
+## 3. User responsibility
+
+You are solely responsible for accounts, credentials, configuration, commands, scripts, automations, messages, prompts, AI-generated output, and other activity performed through the Software. You must review configured actions, protect local data and authenticated sessions, maintain appropriate backups, and obtain any permissions or consents required for data you process or submit.
+
+## 4. Third-party services
+
+The Software can interact with independent third-party services. Those services are not controlled by the copyright holder and are governed by their own terms, policies, licenses, and availability. This Agreement does not grant rights to any third-party service or override its rules.
+
+The copyright holder does not guarantee that any third-party integration will remain available, compatible, authorized, or unchanged. Account restrictions, service limitations, and enforcement actions imposed by third parties are your responsibility.
+
+## 5. Third-party components
+
+The Software may include or install third-party components governed by separate open-source or proprietary licenses. Those licenses apply to the respective components and take precedence over this Agreement only for those components. Nothing in this Agreement limits rights granted under an applicable third-party license.
+
+## 6. Updates and changes
+
+The Software may download, offer, or install updates. Features and integrations may be changed, suspended, or discontinued at any time. An update may be subject to an updated version of this Agreement presented with the update or made available through the official distribution page.
+
+## 7. Termination
+
+This license terminates automatically if you materially breach this Agreement. Upon termination, you must stop using and delete all copies of the Software under your control. Provisions concerning ownership, restrictions, disclaimers, and limitations of liability survive termination.
+
+## 8. Disclaimer of warranties
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF AVAILABILITY, ACCURACY, RELIABILITY, COMPATIBILITY, SECURITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE, AUTOMATIONS, THIRD-PARTY INTEGRATIONS, OR AI-GENERATED OUTPUT WILL BE UNINTERRUPTED, ERROR-FREE, SAFE, ACCURATE, OR SUITABLE FOR ANY PARTICULAR USE.
+
+## 9. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, CONSEQUENTIAL, OR SIMILAR DAMAGES OR LOSSES ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE OR INABILITY TO BE USED, INCLUDING ACCOUNT RESTRICTIONS OR BANS, DATA LOSS, LOST PROFITS, SERVICE INTERRUPTION, SECURITY INCIDENTS, FAILED OR UNINTENDED COMMANDS, AUTOMATED ACTIONS, CUSTOM SCRIPTS, AI-GENERATED CONTENT, OR THIRD-PARTY SERVICE CHANGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Some jurisdictions do not allow certain warranty exclusions or liability limitations. In those jurisdictions, these provisions apply only to the maximum extent permitted by law.
+
+## 10. General
+
+If any provision of this Agreement is found unenforceable, it will be limited or removed only to the minimum extent necessary, and the remaining provisions will continue in effect. Failure to enforce a provision is not a waiver of the right to enforce it later.
+
+No waiver, exception, or permission is valid unless provided in writing by the copyright holder.
